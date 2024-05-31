@@ -15,16 +15,20 @@
 #See the License for the specific language governing permissions and
 #limitations under the License.
 
-# Programa instalacion servicio autoiface
-# Basado en el software AutoNetplan: https://github.com/Nisamov/autonetplan
+# Programa principal
 
-# Ruta del directorio donde se encuentra el script de instalación
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
-# Ruta de instalacion de software (codigo principal)
-INSTALL_DIR="/usr/local/sbin"
-# Ruta ficheros programa super usuario
-PROGRAM_FILES="/usr/local/sbin/auto-iface"
-# Ruta interfaces
-NETWORK="/etc/network/interfaces"
-# Idioma del programa
-language=$(cat "/etc/default/locale")
+# Declaracion de variables
+
+
+
+
+# Declaracion de funciones
+
+
+
+# Ejecucion del software
+
+if [[ $1 == "" ]]; then
+
+
+fi

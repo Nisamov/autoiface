@@ -1,1 +1,2 @@
-
+<!--Este software se ha creado a partir del ejemplo de AutoNetplan, usando este como base para la creacion de AutoIface-->
+<!--Creado por Andres Ruslan Abadias Otal, creador y desarrollador del software original AutoNetplan(https://github.com/Nisamov/autonetplan)-->
