@@ -28,3 +28,6 @@ PROGRAM_FILES="/usr/local/sbin/auto-iface"
 NETWORK="/etc/network/interfaces"
 # Idioma del programa
 language=$(cat "/etc/default/locale")
+
+# Limpiar consola
+clear

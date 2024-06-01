@@ -28,7 +28,10 @@
 
 # Ejecucion del software
 
-if [[ $1 == "" ]]; then
+if [[ $1 == "-d" ]]; then
+# Debug
 
+elif [[ $1 == "-h" ]]; then
+# Modo soporte
 
 fi
